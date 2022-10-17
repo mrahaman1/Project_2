@@ -1,4 +1,5 @@
 
+
 /* --------Index page layout--------- */
 
 #cont{
@@ -99,7 +100,7 @@
 }
 
 #popup {
-    height: 200px;
+    height: 300px;
     width: 400px;
     border: 0px solid blue;
     border-radius: 15px;
@@ -129,14 +130,14 @@
 #popup-text {
     height: 20px;
     width: 350px;
-    margin-top: 20px;
+    margin-top: 60px;
 }
 #popup-button {
     float: right;
     border: 0px;
     height: 40px;
     width: 120px;
-    margin-top: 10px;
+    margin-top: 40px;
     margin-right: 40px;
     border-radius: 5px;
     color: #FFFFFF;
@@ -156,7 +157,7 @@ input{
 .ef{
     left: 139px;
     width: 350px;
-    height: 200px;
+    height: 370px;
     padding: 20px;
     /* UI Properties */
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -236,7 +237,7 @@ input{
 
 
     #popup2{
-        height: 200px;
+        height: 300px;
         width: 400px;
         border: 0px solid blue;
         border-radius: 15px;
@@ -258,3 +259,4 @@ input{
         height: 40px;
 
     }
+
